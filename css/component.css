@@ -1,0 +1,15 @@
+.component__header{
+    background-color: #FBF9D0;
+    width:400px;
+    height: 100px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.component__header h1{
+    font-size: 80px;
+    font-weight: 700;
+    border-bottom: 5px solid #7DCE14;
+}
