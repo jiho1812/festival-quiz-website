@@ -25,7 +25,7 @@
 
 .index__main__list li {
     width: 300px;
-    margin: 20px 0;
+    margin: 5px 0;
     border: 5px solid #7DCE14;
     border-radius: 20px;
     display: flex;
@@ -43,5 +43,8 @@ font-size: 50px;
     font-size: 25px;
 }
 
+.index__main__list__fontsize30{
+    font-size: 30px;
+}
 
 
